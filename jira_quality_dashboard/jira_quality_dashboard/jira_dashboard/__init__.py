@@ -1,0 +1,1 @@
+"""Jira quality dashboard package."""
